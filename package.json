@@ -1,5 +1,5 @@
 {
-  "name": "grunt-juice-email",
+  "name": "grunt-juice-email--ognivo",
   "description": "Inline stylesheets into email HTML templates using Automattic's Juice",
   "version": "0.3.0",
   "homepage": "https://github.com/disintegrator/grunt-juice-email",
